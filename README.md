@@ -1,7 +1,7 @@
 <h1 align="center">Post-kotlin</h1>
 
 <div align="center">
-  <strong>⚡ A small of Post for Kotlin.</strong>
+  <strong>⚡ A small extension of Post for Kotlin.</strong>
 </div>
 
  ## Getting started
